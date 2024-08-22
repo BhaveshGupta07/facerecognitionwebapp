@@ -1,0 +1,10 @@
+flask
+opencv-python
+numpy
+tensorflow
+mtcnn
+dlib
+facenet_pytorch
+face_recognition_models
+pillow
+cmake
